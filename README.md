@@ -12,16 +12,15 @@ The App has been developed in a team of five people using Swift and SwiftUI.
 
 ## Screenshots
 
-![Overview](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/db787a5e-8ea4-442a-bda1-f1bc68cfd7c8)
+![Overview](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/8592900c-e8b2-4d3a-85eb-494ce29fd78b)
 
-![1](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/39dc426a-e7aa-4303-b72b-3cb864bda15a)
+![1](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/4cafec66-380e-4474-9d61-a3019e57d4d6)
 
-![2](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/c26bb2a1-ca50-47b6-8914-d21f73700402)
+![2](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/b52d12a9-01e6-4ffc-9a5d-2411107e6f98)
 
-![3](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/484fc577-e19f-4081-bdf4-8de8a55a8a98)
+![3](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/5778e728-30e0-4c1a-b0e8-6210276b4cf7)
 
-![4](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/3bc82984-9768-4c93-864d-b9389632ab98)
-
+![2023-06-07 18 20 00](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/5547f4c6-b098-4df8-9fd0-b4a4002b241a)
 
 That's the end of the overview of this project, thank s for reading!
 
