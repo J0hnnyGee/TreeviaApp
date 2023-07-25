@@ -5,8 +5,7 @@ improve their knowledge about sustainability
 and ecology by playing a trivia game
 and competing with their friends.
 
-<img width="1190" alt="Poster Treevia" src="https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/693de433-1d77-4b1f-b20a-a574a02d584c">
-
+<img width="298" alt="Poster Treevia (1)" src="https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/63084dbc-f636-43f2-bd60-c04e1b08fc50">
 
 The App has been developed in a team of five people using Swift and SwiftUI.
 
