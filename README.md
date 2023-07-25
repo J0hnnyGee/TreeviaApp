@@ -10,9 +10,9 @@ and competing with their friends.
 
 The App has been developed in a team of five people using Swift and SwiftUI.
 
-##Screenshots
+## Screenshots
 
-![Overview](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/db787a5e-8ea4-442a-bda1-f1bc68cfd7c8)
+![Overview](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/db787a5e-8ea4-442a-bda1-f1bc68cfd7c8 =100x20)
 
 ![1](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/39dc426a-e7aa-4303-b72b-3cb864bda15a)
 
