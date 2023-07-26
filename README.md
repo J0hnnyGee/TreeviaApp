@@ -21,6 +21,6 @@ The App has been developed in a team of five people using Swift and SwiftUI.
 
 ![2023-06-07 18 20 00](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/5547f4c6-b098-4df8-9fd0-b4a4002b241a)
 
-That's the end of the overview of this project, thank s for reading!
+That's the end of the overview of this project, thanks for reading!
 
 ![Presentation Treevia-11](https://github.com/J0hnnyGee/TreeviaApp/assets/61202910/b7040e6f-c0a4-44d4-98cc-20ccb3e85578)
